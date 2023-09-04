@@ -1,3 +1,11 @@
+### VsCode Metals Gen
+.bloop/
+.metals/
+.vscode/
+project/.bloop/
+project/metals.sbt
+project/project/
+
 ### Project Specific stuff
 test_run_dir/*
 ### XilinxISE template
